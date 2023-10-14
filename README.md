@@ -1,7 +1,7 @@
 ### Hi there 👋, Simay Akar
 ![](https://i.ibb.co/19tmWWG/banner.png)
 
-I'm Simay from Turkey. I really enjoy learning new skills related to Data Science & Analytics. In this direction, I am currently trying to develop my Python and SQL skills. 
+I'm Simay from Turkey. I really enjoy learning new skills related to Data Analytics. In this direction, I am currently trying to develop my Python and SQL skills. 
 
 Skills: SQL, Python, Flutter, CSS, HTML
 
